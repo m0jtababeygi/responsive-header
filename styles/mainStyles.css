@@ -186,9 +186,9 @@ body {
     grid-template-columns: 400px 1fr;
     grid-template-rows: 50px 1fr 40px;
     grid-template-areas:
-      "sidebar header"
+      "header header"
       "sidebar body"
-      "sidebar footer";
+      "footer footer";
     height: 100%;
   }
 }
